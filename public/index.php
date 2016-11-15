@@ -31,7 +31,7 @@ $server_dir=$user->protocol_url()
 <html>
 <head>
 <link type="text/css" rel="stylesheet" href="<?=$server_dir?>/asset/css/style.css"/>
-<title>Wild Fusion Development Test</title>
+<title>Wild-Fusion-Development Test</title>
 <body style="text-align:center;">
 
 <?php
